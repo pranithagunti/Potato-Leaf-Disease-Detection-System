@@ -112,7 +112,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 For questions or feedback, reach out to:  
 
-👤 **Your Name**  
+👤 **Your Name**  :Sai Pranitha Gunti
 📌 **GitHub**:  https://github.com/pranithagunti16
 📩 **Email**: pranitha.gunti1609@gmail.com
 
