@@ -1,4 +1,4 @@
-Here's a customized README for your **Potato Leaf Disease Detection System**:  
+
 
 ---
 
