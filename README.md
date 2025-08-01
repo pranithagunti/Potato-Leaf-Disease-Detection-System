@@ -5,6 +5,8 @@
 # 🌱 Potato Leaf Disease Detection System for Sustainable Agriculture  
 
 This project is a web-based application that leverages deep learning to identify **potato leaf diseases** from images. It helps farmers and agricultural experts diagnose diseases early, enhancing crop yield and promoting sustainable farming practices.  
+<img width="1214" height="683" alt="Potato1" src="https://github.com/user-attachments/assets/f397fecf-f785-43fb-aa02-9d64298117ba" />
+
 
 ---
 
